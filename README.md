@@ -1,3 +1,11 @@
+References
+==============================
+https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples
+https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
+https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
+https://www.w3schools.com/jsref/jsref_includes.asp
+https://stackoverflow.com/questions/10640159/key-for-javascript-dictionary-is-not-stored-as-value-but-as-variable-name
+
 CMPUT404-assignment-websockets
 ==============================
 
